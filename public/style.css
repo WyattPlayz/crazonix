@@ -1,0 +1,42 @@
+body {
+  background-color: #000000;
+  color: #ffffff;
+  text-align: center;
+  margin: auto;
+  font-size: 50px;
+}
+
+header {
+  border-bottom-style: double;
+}
+
+footer {
+  font-size: 15px;
+  background-color: #000005;
+  color: #ffffff;
+}
+
+div {
+   font-size: 25px;
+   color: #ffffff;
+}
+
+div.Join {
+  border-bottom: solid;
+  background-color: #000000;
+}
+
+div.Staff {
+  border-top: solid;
+  background-color: #000000;
+}
+
+h5.JS {
+  font-size: 20px;
+}
+
+button {
+  font-size: 25px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

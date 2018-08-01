@@ -1,0 +1,12 @@
+body {
+  font-size: 25px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin: auto;
+}
+
+img {
+  background-color: #000005;
+  border-style: double;
+}
